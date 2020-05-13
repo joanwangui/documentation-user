@@ -313,7 +313,7 @@ LANGUAGES = {
     'en': 'English',
     'es': 'Spanish',
     'fr': 'French',
-    'hr': 'Croatian',
+    'employee': 'Croatian',
     'nl': 'Dutch',
     'pt_BR': 'Portuguese (BR)',
     'uk': 'Ukrainian',

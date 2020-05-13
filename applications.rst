@@ -31,7 +31,7 @@ Applications
    sms_marketing
    marketing_automation
    survey
-   hr
+   employee
 
    general
 
